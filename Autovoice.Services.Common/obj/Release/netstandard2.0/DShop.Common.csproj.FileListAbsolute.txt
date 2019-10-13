@@ -1,0 +1,8 @@
+C:\Suresh\DNC-DShop\DNC-DShop.Common\src\DShop.Common\bin\Release\netstandard2.0\DShop.Common.deps.json
+C:\Suresh\DNC-DShop\DNC-DShop.Common\src\DShop.Common\bin\Release\netstandard2.0\DShop.Common.dll
+C:\Suresh\DNC-DShop\DNC-DShop.Common\src\DShop.Common\bin\Release\netstandard2.0\DShop.Common.pdb
+C:\Suresh\DNC-DShop\DNC-DShop.Common\src\DShop.Common\obj\Release\netstandard2.0\DShop.Common.csproj.CoreCompileInputs.cache
+C:\Suresh\DNC-DShop\DNC-DShop.Common\src\DShop.Common\obj\Release\netstandard2.0\DShop.Common.AssemblyInfoInputs.cache
+C:\Suresh\DNC-DShop\DNC-DShop.Common\src\DShop.Common\obj\Release\netstandard2.0\DShop.Common.AssemblyInfo.cs
+C:\Suresh\DNC-DShop\DNC-DShop.Common\src\DShop.Common\obj\Release\netstandard2.0\DShop.Common.dll
+C:\Suresh\DNC-DShop\DNC-DShop.Common\src\DShop.Common\obj\Release\netstandard2.0\DShop.Common.pdb

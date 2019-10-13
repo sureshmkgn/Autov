@@ -1,0 +1,14 @@
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\obj\Debug\netcoreapp2.2\Autovoice.Services.Instructions.csprojAssemblyReference.cache
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\obj\Debug\netcoreapp2.2\Autovoice.Services.Instructions.csproj.CoreCompileInputs.cache
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\obj\Debug\netcoreapp2.2\Autovoice.Services.Instructions.AssemblyInfoInputs.cache
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\obj\Debug\netcoreapp2.2\Autovoice.Services.Instructions.AssemblyInfo.cs
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\bin\Debug\netcoreapp2.2\Autovoice.Services.Instructions.deps.json
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\bin\Debug\netcoreapp2.2\Autovoice.Services.Instructions.runtimeconfig.json
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\bin\Debug\netcoreapp2.2\Autovoice.Services.Instructions.runtimeconfig.dev.json
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\bin\Debug\netcoreapp2.2\Autovoice.Services.Instructions.dll
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\bin\Debug\netcoreapp2.2\Autovoice.Services.Instructions.pdb
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\bin\Debug\netcoreapp2.2\FA.Common.dll
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\bin\Debug\netcoreapp2.2\FA.Common.pdb
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\obj\Debug\netcoreapp2.2\Autovoice.Services.Instructions.csproj.CopyComplete
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\obj\Debug\netcoreapp2.2\Autovoice.Services.Instructions.dll
+C:\DockerDev\Autovoice.Services.Language\src\DShop.Services.Products\obj\Debug\netcoreapp2.2\Autovoice.Services.Instructions.pdb

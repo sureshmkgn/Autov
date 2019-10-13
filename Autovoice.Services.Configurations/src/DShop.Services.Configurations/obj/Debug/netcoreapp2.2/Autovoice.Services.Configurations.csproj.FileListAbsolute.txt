@@ -1,0 +1,14 @@
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\bin\Debug\netcoreapp2.2\Autovoice.Services.Configurations.deps.json
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\bin\Debug\netcoreapp2.2\Autovoice.Services.Configurations.runtimeconfig.json
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\bin\Debug\netcoreapp2.2\Autovoice.Services.Configurations.runtimeconfig.dev.json
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\bin\Debug\netcoreapp2.2\Autovoice.Services.Configurations.dll
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\bin\Debug\netcoreapp2.2\Autovoice.Services.Configurations.pdb
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\bin\Debug\netcoreapp2.2\FA.Common.dll
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\bin\Debug\netcoreapp2.2\FA.Common.pdb
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\obj\Debug\netcoreapp2.2\Autovoice.Services.Configurations.csprojAssemblyReference.cache
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\obj\Debug\netcoreapp2.2\Autovoice.Services.Configurations.csproj.CoreCompileInputs.cache
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\obj\Debug\netcoreapp2.2\Autovoice.Services.Configurations.AssemblyInfoInputs.cache
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\obj\Debug\netcoreapp2.2\Autovoice.Services.Configurations.AssemblyInfo.cs
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\obj\Debug\netcoreapp2.2\Autovoice.Services.Configurations.csproj.CopyComplete
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\obj\Debug\netcoreapp2.2\Autovoice.Services.Configurations.dll
+C:\DockerDev\Autovoice.Services.Configurations\src\DShop.Services.Configurations\obj\Debug\netcoreapp2.2\Autovoice.Services.Configurations.pdb

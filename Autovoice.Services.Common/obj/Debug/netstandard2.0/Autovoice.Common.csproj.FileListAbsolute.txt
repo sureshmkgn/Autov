@@ -1,0 +1,9 @@
+C:\DockerDev\Autovoice.Services.Common\obj\Debug\netstandard2.0\Autovoice.Common.csproj.CoreCompileInputs.cache
+C:\DockerDev\Autovoice.Services.Common\obj\Debug\netstandard2.0\Autovoice.Common.AssemblyInfoInputs.cache
+C:\DockerDev\Autovoice.Services.Common\obj\Debug\netstandard2.0\Autovoice.Common.AssemblyInfo.cs
+C:\DockerDev\Autovoice.Services.Common\obj\Debug\netstandard2.0\FA.Common.dll
+C:\DockerDev\Autovoice.Services.Common\obj\Debug\netstandard2.0\FA.Common.pdb
+C:\DockerDev\Autovoice.Services.Common\bin\Debug\netstandard2.0\FA.Common.deps.json
+C:\DockerDev\Autovoice.Services.Common\bin\Debug\netstandard2.0\FA.Common.dll
+C:\DockerDev\Autovoice.Services.Common\bin\Debug\netstandard2.0\FA.Common.pdb
+C:\DockerDev\Autovoice.Services.Common\obj\Debug\netstandard2.0\Autovoice.Common.csprojAssemblyReference.cache
